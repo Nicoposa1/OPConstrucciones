@@ -134,6 +134,9 @@ body{
   text-decoration: none;
   color: white;
 }
+.OPCLogo{
+  margin-bottom: 3em;
+}
 
 .bg-light{
   background-color: white;
@@ -165,6 +168,7 @@ body{
 #carousel .overlay .row{
   height: 100%;
 }
+
 
 
 /* Nosotros */
